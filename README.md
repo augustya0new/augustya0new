@@ -25,7 +25,7 @@
 - :hourglass_flowing_sand:  Exploring C++ and competitive programming
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: 2+yrs experience on web dev projects through freelancing
-- :trophy: 2x regional hackathon winner -- hackerearth 
+
 
 
 <h2 align="left">:heart: Let's get connected:</h2>
