@@ -22,7 +22,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand:  Exploring C++ and competitive programming
+- :hourglass_flowing_sand:  Exploring Python and competitive programming
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: 2+yrs experience on web dev projects through freelancing
 
