@@ -21,10 +21,10 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand:  Exploring Python and competitive programming
+- :computer: I'm currently working as an analyst at a Prop Trading Firm.
+- :hourglass_flowing_sand:  Exploring LLM and Probablistic models.
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: 2+yrs experience on web dev projects through freelancing
+- :man_technologist: 2+yrs experience on ML projects through freelancing
 
 
 
