@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/<your-username>/assets/main/github-banner.png)
-
 # Hi there, I'm Augustya! 👋
 
 I am a **Data Scientist** with **1.5+ years** of experience, holding a **Bachelor’s degree in Engineering**. I am passionate about building **AI-powered solutions**, working with **Machine Learning**, **Deep Learning**, and **Data Analytics** to solve real-world problems.
