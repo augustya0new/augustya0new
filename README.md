@@ -5,7 +5,7 @@ I am a **Data Scientist** with **1.5+ years** of experience, holding a **Bachelo
 - 🔍 Currently exploring **Unsupervised Learning & Generative AI**
 - 💡 Passionate about **Time Series Analysis, NLP, and Explainable AI**
 - 📈 Strong understanding of **statistical modeling and predictive analytics**
-- 🏆 Constantly working towards **becoming the top 1% in AI & Data Science**
+- 🏆 Constantly working towards **becoming the top 0.01% in AI & Data Science**
 
 ## 🚀 Tech Stack & Tools
 
